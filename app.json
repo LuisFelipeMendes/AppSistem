@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Operadora",
+    "slug": "AppSistem",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "app.mobile.sistem",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "app.mobile.sistem",
+      "versionCode": 1
+    }
+  }
+}
